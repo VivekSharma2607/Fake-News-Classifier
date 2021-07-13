@@ -14,4 +14,8 @@ Library Used:
   2. Stopwords is are those words that most of time doesn't add any significance any kind of review or recomandation model. For more explanation refer wikipedia page = https://en.wikipedia.org/wiki/Stop_word.
   3. Stemmer = The stemmer used for this model is PortStemmer. https://pypi.org/project/PorterStemmer/ the official link for more information.
   4. TF-IDF = TFIDF, short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. For imformation refer the wikipedia page = https://en.wikipedia.org/wiki/Tf%E2%80%93idf
-  5. 
+  5. CountVectorizer = Its the another or official name of Bag of Words its like the name suggest in this the words are depicted in multiset of words disgarding the grammer and even repeated words
+
+### 2. LSTM(Long Short-Term Memomery)
+
+It's an ANN(Artificial Neural Network) unlike standard feedforward neural network , it has feedback connections. A comman LSTM unit is campared of a cell , an input gate , an output gate and forget gate. The cell remembers values over arbitrary time intervals and the three gates regulate the flow of information into and out of the cell.
