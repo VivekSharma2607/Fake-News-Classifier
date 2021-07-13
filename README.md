@@ -13,4 +13,5 @@ Library Used:
   1. NLTK is a leading platform for building Python programs to work with human language data. For more explanation you could read the official page = https://www.nltk.org/.
   2. Stopwords is are those words that most of time doesn't add any significance any kind of review or recomandation model. For more explanation refer wikipedia page = https://en.wikipedia.org/wiki/Stop_word.
   3. Stemmer = The stemmer used for this model is PortStemmer. https://pypi.org/project/PorterStemmer/ the official link for more information.
-  4. 
+  4. TF-IDF = TFIDF, short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. For imformation refer the wikipedia page = https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+  5. 
