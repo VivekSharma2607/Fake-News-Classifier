@@ -1,5 +1,5 @@
 # Fake-News-Classifier
-The Dataset if from one of Kaggle compettions link = https://www.kaggle.com/c/fake-news/overview
+The Dataset is from one of Kaggle compettions link = https://www.kaggle.com/c/fake-news/overview
 
 ### The Contents of Dataset :
   1. Train.csv = File on which training of the model is being done.
